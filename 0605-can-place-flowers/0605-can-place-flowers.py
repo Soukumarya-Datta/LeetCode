@@ -6,4 +6,6 @@ class Solution:
                 if (i == 0 or flowerbed[i-1] == 0) and (i == len(flowerbed) - 1 or flowerbed[i+1] == 0):
                     flowerbed[i] = 1
                     c += 1
+                    if c >= n:
+                        return c >= n
         return c >= n
