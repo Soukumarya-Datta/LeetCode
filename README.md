@@ -17,16 +17,19 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +38,8 @@
 |  |
 | ------- |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+## Counting
+|  |
+| ------- |
+| [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
