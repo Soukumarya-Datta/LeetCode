@@ -26,8 +26,13 @@
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
