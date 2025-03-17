@@ -46,10 +46,16 @@
 ## String
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
