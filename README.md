@@ -46,5 +46,10 @@
 ## String
 |  |
 | ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 <!---LeetCode Topics End-->
