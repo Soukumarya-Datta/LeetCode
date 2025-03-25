@@ -11,6 +11,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2386-min-max-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2386-min-max-game) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2386-min-max-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2386-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
