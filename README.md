@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2391-strong-password-checker-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 ## Greedy
 |  |
 | ------- |
