@@ -26,12 +26,14 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
+| [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [2391-strong-password-checker-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
+| [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 ## Greedy
 |  |
 | ------- |
