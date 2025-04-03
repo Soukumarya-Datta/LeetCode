@@ -26,6 +26,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 ## Hash Table
 |  |
