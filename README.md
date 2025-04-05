@@ -26,6 +26,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
@@ -35,6 +36,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 ## Sorting
 |  |
