@@ -30,6 +30,7 @@
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
+| [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
+| [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -45,10 +47,12 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
