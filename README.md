@@ -6,6 +6,7 @@
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
 | ------- |
