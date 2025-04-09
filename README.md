@@ -6,6 +6,7 @@
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
@@ -30,6 +31,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
