@@ -35,6 +35,7 @@
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,4 +100,8 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Binary Search
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
