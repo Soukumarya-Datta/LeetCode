@@ -8,6 +8,7 @@
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Enumeration
 |  |
 | ------- |
