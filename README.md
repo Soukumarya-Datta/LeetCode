@@ -37,6 +37,7 @@
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 ## Hash Table
@@ -85,6 +86,7 @@
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
