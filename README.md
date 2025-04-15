@@ -7,6 +7,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2645-pass-the-pillow](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
