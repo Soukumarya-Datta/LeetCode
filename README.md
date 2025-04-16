@@ -10,6 +10,7 @@
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2645-pass-the-pillow](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2386-min-max-game) |
 | [2645-pass-the-pillow](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +54,7 @@
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
 | ------- |
