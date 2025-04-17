@@ -92,6 +92,7 @@
 | [2536-determine-if-two-events-have-conflict](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 ## Greedy
 |  |
 | ------- |
