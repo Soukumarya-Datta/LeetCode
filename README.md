@@ -21,6 +21,7 @@
 | [2386-min-max-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2386-min-max-game) |
 | [2645-pass-the-pillow](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2785-semi-ordered-permutation](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 ## Array
 |  |
@@ -45,6 +46,7 @@
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2785-semi-ordered-permutation](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 ## Hash Table
 |  |
