@@ -12,6 +12,7 @@
 | [2645-pass-the-pillow](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Sorting
 |  |
 | ------- |
