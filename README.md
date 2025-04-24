@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -128,4 +129,12 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
