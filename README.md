@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0002-add-two-numbers) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -136,5 +137,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
