@@ -75,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -136,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Recursion
 |  |
