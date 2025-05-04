@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0015-3sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -70,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0015-3sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0015-3sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
