@@ -89,6 +89,7 @@
 | [0015-3sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Trie
 |  |
 | ------- |
