@@ -114,6 +114,7 @@
 | [0012-integer-to-roman](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0020-valid-parentheses) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
