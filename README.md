@@ -97,6 +97,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Counting
 |  |
@@ -171,6 +172,7 @@
 | [0002-add-two-numbers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Trie
 |  |
 | ------- |
@@ -183,4 +185,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
