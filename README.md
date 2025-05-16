@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0029-divide-two-integers) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -193,4 +194,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
