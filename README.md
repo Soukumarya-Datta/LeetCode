@@ -42,6 +42,7 @@
 | [0035-search-insert-position](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0040-combination-sum-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -216,6 +217,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
