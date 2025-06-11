@@ -46,6 +46,7 @@
 | [0037-sudoku-solver](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0047-permutations-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -159,6 +160,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0045-jump-game-ii) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -198,6 +200,7 @@
 | [0022-generate-parentheses](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
