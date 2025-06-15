@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0050-powx-n) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -218,6 +219,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
