@@ -51,6 +51,7 @@
 | [0046-permutations](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0051-n-queens) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -242,6 +243,7 @@
 | [0040-combination-sum-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
