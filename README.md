@@ -52,6 +52,7 @@
 | [0047-permutations-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0053-maximum-subarray) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -211,6 +212,7 @@
 | [0042-trapping-rain-water](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0053-maximum-subarray) |
 ## Merge Sort
 |  |
 | ------- |
