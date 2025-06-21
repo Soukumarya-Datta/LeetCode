@@ -55,6 +55,7 @@
 | [0051-n-queens](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0057-insert-interval) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0055-jump-game) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -217,6 +219,7 @@
 | [0044-wildcard-matching](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
