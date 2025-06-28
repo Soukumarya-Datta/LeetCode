@@ -24,6 +24,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -58,6 +59,7 @@
 | [0055-jump-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -192,6 +194,7 @@
 | [0036-valid-sudoku](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
