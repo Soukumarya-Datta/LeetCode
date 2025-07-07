@@ -64,6 +64,7 @@
 | [0057-insert-interval](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0068-text-justification) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -205,6 +206,7 @@
 | [0054-spiral-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
@@ -237,6 +239,7 @@
 | [0055-jump-game](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Recursion
 |  |
 | ------- |
