@@ -173,6 +173,7 @@
 | [0065-valid-number](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0072-edit-distance) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -240,6 +241,7 @@
 | [0062-unique-paths](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0072-edit-distance) |
 ## Recursion
 |  |
 | ------- |
