@@ -66,6 +66,7 @@
 | [0063-unique-paths-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -98,6 +99,7 @@
 | [0036-valid-sudoku](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
@@ -208,6 +210,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
