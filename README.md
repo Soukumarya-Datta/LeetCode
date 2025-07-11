@@ -102,6 +102,7 @@
 | [0037-sudoku-solver](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2433-best-poker-hand](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2433-best-poker-hand) |
@@ -180,6 +181,7 @@
 | [0068-text-justification](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -222,6 +224,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
