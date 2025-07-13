@@ -69,6 +69,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -291,6 +292,7 @@
 | [0051-n-queens](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
