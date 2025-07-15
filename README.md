@@ -70,6 +70,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -185,6 +186,7 @@
 | [0071-simplify-path](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -221,6 +223,7 @@
 | [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
@@ -295,6 +298,7 @@
 | [0052-n-queens-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -328,4 +332,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
