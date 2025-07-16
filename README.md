@@ -72,6 +72,7 @@
 | [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -239,6 +240,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2634-minimum-common-value](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2634-minimum-common-value) |
 ## Geometry
 |  |
