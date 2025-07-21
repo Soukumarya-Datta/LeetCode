@@ -73,6 +73,7 @@
 | [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -311,6 +312,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Combinatorics
 |  |
 | ------- |
