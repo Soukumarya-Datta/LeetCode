@@ -74,6 +74,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0085-maximal-rectangle) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -227,6 +228,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0085-maximal-rectangle) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
@@ -264,6 +266,7 @@
 | [0063-unique-paths-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 | [0042-trapping-rain-water](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -336,6 +340,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Combinatorics
 |  |
 | ------- |
