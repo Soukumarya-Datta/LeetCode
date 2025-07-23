@@ -151,6 +151,7 @@
 | [0075-sort-colors](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0086-partition-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -290,6 +291,7 @@
 | [0061-rotate-list](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0086-partition-list) |
 ## Trie
 |  |
 | ------- |
