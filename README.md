@@ -192,6 +192,7 @@
 | [0072-edit-distance](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0087-scramble-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -268,6 +269,7 @@
 | [0064-minimum-path-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0087-scramble-string) |
 ## Recursion
 |  |
 | ------- |
