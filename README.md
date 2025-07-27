@@ -12,6 +12,7 @@
 | [0050-powx-n](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0089-gray-code) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -315,6 +316,7 @@
 | [0077-combinations](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0089-gray-code) |
 ## String Matching
 |  |
 | ------- |
