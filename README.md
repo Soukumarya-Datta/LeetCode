@@ -13,6 +13,7 @@
 | [0060-permutation-sequence](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2496-count-days-spent-together](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soukumarya-Datta/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -279,6 +280,7 @@
 | [0087-scramble-string](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -376,13 +378,16 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Soukumarya-Datta/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
